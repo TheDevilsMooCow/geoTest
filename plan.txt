@@ -1,0 +1,5 @@
+get map on website
+get streetview on website
+get point on map
+get country from point
+randomly get a streetview location
